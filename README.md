@@ -1,18 +1,19 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Weerawat Lappermthawee</h1>
-<h3 align="center">Software Engineer | Full stack Developer | Game Developer</h3>
  
-<!--<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=400&color=799AF7&center=true&vCenter=true&width=435&lines=I'M+SOFTWARE+DEVELOPER;FROM+THAILAND" alt="Typing SVG" />
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=400&color=799AF7&center=true&vCenter=true&width=435&lines=SOFTWARE+DEVELOPER;FROM+THAILAND%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" /></a>
   </a>
-</h3> -->
+</h3>
+<h3 align="center">Software Engineer | Full stack Developer | Game Developer</h3>
+
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🗺️ &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Senior year student of Computer Engineering Department @KMUTT.
-- 💡 &nbsp; Interesting in Front-end, Back-end, DevOps and Cloud.
-- 📄 &nbsp; My full resume here! 
+- 🎓 &nbsp; A `Senior` year student at [Computer Engineering Department](https://cpe.kmutt.ac.th/) @ [King Mongkut's University of Technology Thonburi](https://www.kmutt.ac.th/en/)
+- 💡 &nbsp; Interesting in `Front-end`, `Back-end`, `DevOps` and `Cloud`.
+- 📄 &nbsp; Here's [MY RESUME](https://drive.google.com/file/d/1BG8TqXSR0vgoMepjW12QHiMzW3hmnHPO/view?usp=sharing) 
 
 &emsp;
 
