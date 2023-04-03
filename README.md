@@ -71,5 +71,15 @@
 ![DroneCI](https://img.shields.io/badge/-Drone_CI-000?&logo=drone)
 ![ArgoCD](https://img.shields.io/badge/-Argo_CD-000?&logo=argoCD)
 
-
 &emsp;
+
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+
+<img alt="WWeerawat's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=wweerawat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="WWeerawat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wweerawat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+
+### 🔥 Streak Stats
+
+![WWeerawat's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=wweerawat&theme=tokyonight)
