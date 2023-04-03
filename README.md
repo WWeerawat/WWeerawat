@@ -63,20 +63,19 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+<!-- ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) -->
 
 ### SRE & DevOps:
 &emsp;
 ![GCP](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)
 ![DO](https://img.shields.io/badge/-Digital_Ocean-000?&logo=digitalOcean)
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-000?&logo=microsoft-azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![DroneCI](https://img.shields.io/badge/-Drone_CI-000?&logo=drone)
 ![ArgoCD](https://img.shields.io/badge/-Argo_CD-000?&logo=argoCD)
-
+<!-- ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform) -->
 &emsp;
 
 ## 📈 My GitHub Stats and Activity
