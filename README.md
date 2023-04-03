@@ -7,6 +7,18 @@
 </h3>
 <h3 align="center">Software Engineer | Full stack Developer | Game Developer</h3>
 
+<p align="center"> 
+  <a href="mailto:foweerawt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-000?&logo=gmail" alt="Gmail" height=25px />
+  </a>
+  <a href="https://www.linkedin.com/in/weerawat-lappermthawee-0b6386221/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedIn" alt="LinkedIn" height=25px />
+  </a>
+	<a href="https://github.com/WWeerawat" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?&logo=github" alt="GitHub" height=25px />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=wweerwaat&label=Views&color=000000&style=flat-square?" alt="viewr" height=25px /> 
+</p>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
