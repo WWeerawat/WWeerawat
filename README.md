@@ -9,9 +9,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions.
+- 🗺️ &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Senior year student of Computer Engineering Department @KMUTT.
-- 💼 &nbsp; Interesting in Front-end, Back-end, DevOps and Cloud.
+- 💡 &nbsp; Interesting in Front-end, Back-end, DevOps and Cloud.
 - 📄 &nbsp; My full resume here! 
 
 &emsp;
