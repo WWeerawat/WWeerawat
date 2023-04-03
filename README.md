@@ -7,10 +7,16 @@
   </a>
 </h3> -->
 
+## 👨🏻‍💻 &nbsp;About Me 
 
+- 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Senior year student of Computer Engineering Department @KMUTT.
+- 💼 &nbsp; Interesting in Front-end, Back-end, DevOps and Cloud.
+- 📄 &nbsp; My full resume here! 
+
+&emsp;
 
 ## 🛠️ My Skills
--------------------
 ### Programming languages:
 &emsp;
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
