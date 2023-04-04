@@ -61,6 +61,7 @@
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=084b32)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=Nestjs&logoColor=e0234d)
+![GIN](https://img.shields.io/badge/-Gin-000?&logo=gin)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
