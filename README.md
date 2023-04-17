@@ -8,7 +8,7 @@
 <h3 align="center">Software Engineer | Full stack Developer | Game Developer</h3>
 
 <p align="center"> 
-  <a href="mailto:foweerawt@gmail.com" target="_blank">
+  <a href="mailto:foweerawat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-000?&logo=gmail" alt="Gmail" height=25px />
   </a>
   <a href="https://www.linkedin.com/in/weerawat-lappermthawee-0b6386221/" target="_blank">
